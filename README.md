@@ -7,6 +7,10 @@ Dieses Repository enthält ein interaktives Jupyter Notebook, welches im Rahmen 
 Das Jupyter Notebook befasst sich mit den Grundlagen des Post-Quanten-Kryptografie Standards ML-KEM und zielt darauf ab, die Inhalte des Verfahrens didaktisch aufzubereiten. 
 Diese Aufbereitung erfolgt mithilfe erklärender Texte, welche durch interaktive Visualisierungen und verschiedene Beispiele unterstützt werden. 
 
+## Wichtiger Hinweis zur Ausführung
+
+Für eine korrekte Darstellung sowie volle Funktionalität wird zwingend empfohlen das Notebook lokal auszuführen. Beim JupyterHub der HTWK traten leider Einschränkungen und Layout- bzw. Formatierungsfehler auf. Es konnten z.B. einige Zellen nicht fehlerfrei ausgeführt werden, Output-Fenster hatten platztechnisch Probleme und wurden abgeschnitten, alle Quellcodes ließen sich nicht einklappen, HTML/CSS hat nur bedingt funktioniert. Daher musste leider auf die zusätzliche Bitte mit der Bereitstellung im JupyterHub verzichtet werden. Eine einfache Anleitung zur Einrichtung kann weiter unten vorgefunden werden.
+
 ## Lernsektionen des Notebooks
 
 * ### 1. Motivation und Einführung
